@@ -1,9 +1,0 @@
-{
-  "name": "TrainHard PWA",
-  "short_name": "TrainHard",
-  "start_url": "./index.html",
-  "scope": "./",
-  "display": "standalone",
-  "theme_color": "#0b1120",
-  "background_color": "#0b1120"
-}
