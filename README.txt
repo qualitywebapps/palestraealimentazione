@@ -1,4 +1,6 @@
-TrainHard PWA final
-- cardio integrated in 3 workouts
-- diet with calorie tracking and meal registration
-- barcode scanner improved for barcode, not QR focus
+TrainHard PWA feedback v2
+- barcode feedback buono/non buono
+- face pull image included in day 2
+- delete history entries
+- swaps applied directly to meals
+- 2 snacks with grams
